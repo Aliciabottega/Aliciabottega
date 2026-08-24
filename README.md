@@ -1,6 +1,6 @@
 # Hi, I'm Alice
 
-Data Analyst based in Abuja, Nigeria. I turn data into dashboards and insights that support real organizational decisions.
+Data Analyst based in Abuja, Nigeria. I analyze and visualize data into insights that support real organizational decisions.
 
 ## What I work with
 - **Tools:** Power BI, SQL, Excel (Pivot Tables, Power Query)
